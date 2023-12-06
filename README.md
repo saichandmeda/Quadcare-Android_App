@@ -34,9 +34,9 @@
 ```
     https://github.com/saichandmeda/Quadcare-Android_App.git
 ```
-2. Open Andriod Studio and import the project to the location that you cloned the file.
-3. Download the unzip file it is going to look like this in your terminal "https://services.gradle.org/distributions/gradle-7.4-bin.zip", it should be 115.85 MB and should take a few minutes to download.
-4. run the add on whichever device that you disire and it should work.
+2. Open Android Studio and import the project to the location that you cloned the file.
+3. Download the unzip file it is going to look like this in your terminal "https://services.gradle.org/distributions/gradle-7.4-bin.zip", it should be 115.85 MB total and should take a few minutes to download.
+4. run the add on whichever device that you desire and it should work.
 
 ## Features
 
