@@ -69,6 +69,26 @@
         - you can go back anytime by sliding right from the left of the screen.
         - Clicking on the phone logo at anytime next to will copy the phone number that you saved and go straight to your phone app and will paste the phone number that is saved with the doctor.
 
+- **View Appointments**
+    - Shows the Appointments that you have added and you are able to see the patient name, date and time of the appointment, and phone logo and this feature has 2 buttons and one switch.
+        - The + button
+            - Name selection
+            - Date input
+            - Time input
+            - Reason for app
+        - The search button
+            - allows you to seach the appointments by thier name.
+        - The switch button
+            - Gives you access to have your screen as light or dark mode. 
+        - you can go back anytime by sliding right from the left of the screen.
+        - Clicking on the phone logo at anytime next to will copy the phone number that you saved and go straight to your phone app and will paste the phone number that is saved with the patient.
+
+- **View Activites**
+    - Shows you the Activities that you have throughout the day and the the activities that you need to to and also you this feature has one button that lets you add notes as whoever uses the app and make them as an Activity to be done when you want to finish it. This feature displays a switch button.
+    - The switch button
+       - Gives you access to have your screen as light or dark mode
+    - you can go back anytime by sliding right from the left of the screen.
+
 ## Usage
 
 
