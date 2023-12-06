@@ -37,10 +37,41 @@
 
 ## Features
 
+- **View Patients**
+    - Shows the patients that you have added and you are able to see their name, patient #, location, phone logo and email logo and this feature has 2 buttons and one switch.
+        - The + button
+            - Name input
+            - Age input
+            - Email input
+            - Phone number input
+            - Address input
+            - Add button to add to the patient list
+        - The search button
+            - allows you to seach patient by thier name or location.
+        - The switch button
+            - Gives you access to have your screen as light or dark mode. 
+        - you can go back anytime by sliding right from the left of the screen.
+        - Clicking on the phone logo at anytime next to will copy the phone number that you saved and go straight to your phone app and will paste the phone number that is saved with the patient.
+        - Clicking on the email logo at anytime next to will copy the email that you saved and go straight to your phone app and will paste the phone number that is saved with the patient.
+
+- **View Doctors**
+    - Shows the doctors that you have added and you are able to see their name, Specialization, their shift start time and end time, and phone logo and this feature has 2 buttons and one switch.
+        - The + button
+            - Name input
+            - Select Specialization (Anesthesiology, Dematology, and Cardiology)
+            - Phone number input
+            - Shift Start Time
+            - Shift End Time
+        - The search button
+            - allows you to seach the doctors by thier name.
+        - The switch button
+            - Gives you access to have your screen as light or dark mode. 
+        - you can go back anytime by sliding right from the left of the screen.
+        - Clicking on the phone logo at anytime next to will copy the phone number that you saved and go straight to your phone app and will paste the phone number that is saved with the doctor.
 
 ## Usage
 
-*Guidelines on how to use the app, including examples of API calls and interpreting results.
+
 
 ## License
 
