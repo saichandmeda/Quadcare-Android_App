@@ -1,7 +1,7 @@
 # Quadcare Andriod App
 
 ## Project Overview
-This app focuses on delivering weather updates to users through RESTful API calls. It features different layouts to cater to diverse user preferences.
+
 
 ## Team Members
 
@@ -28,12 +28,12 @@ This app focuses on delivering weather updates to users through RESTful API call
     https://github.com/saichandmeda/Quadcare-Android_App.git
 ```
 2. Open Andriod Studio and import the project to the location that you cloned the file.
-2. Download the unzip file it is going to look like this in your terminal "https://services.gradle.org/distributions/gradle-7.4-bin.zip", it should be 115.85 MB and should take a few minutes to download.
+3. Download the unzip file it is going to look like this in your terminal "https://services.gradle.org/distributions/gradle-7.4-bin.zip", it should be 115.85 MB and should take a few minutes to download.
+4. run the add on whichever device that you disire and it should work.
 
 ## Features
 
-- **Weather Updates:** Utilizes RESTful API calls to fetch the latest weather information.
-- **Customizable Layouts:** Supports various layouts for different user experiences.
+
 
 ## Usage
 
