@@ -20,6 +20,13 @@
 - **James**
     - **GitHub:** James-hello-world
     - **Email:** jimbo497cat@gmail.com
+ 
+- **Daniel Palomera**
+    - **GitHub:** woot2334
+    - **Email:** dpalomera0@csu.fullerton.edu
+ 
+ 
+      
 
 ## Getting Started
 
