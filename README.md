@@ -34,7 +34,6 @@
 ## Features
 
 
-
 ## Usage
 
 *Guidelines on how to use the app, including examples of API calls and interpreting results.
