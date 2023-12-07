@@ -80,5 +80,3 @@ class DashBoardActivity : AppCompatActivity() {
         return textView
     }
 }
-
-
